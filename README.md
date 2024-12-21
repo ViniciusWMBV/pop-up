@@ -1,7 +1,7 @@
 # 📂 Projeto: Pop-Up Simples
 Este repositório contém o código de um pop-up funcional desenvolvido com HTML, CSS e JavaScript. O objetivo do projeto é criar uma janela pop-up que pode ser exibida e fechada ao interagir com os botões, oferecendo uma introdução prática à manipulação do DOM e eventos no JavaScript.
 
-✨ Descrição do Projeto
+#✨ Descrição do Projeto
 O projeto apresenta uma funcionalidade simples de pop-up, onde:
 
 O botão "Abrir Pop-Up" exibe uma janela modal na tela.
